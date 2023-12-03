@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kartičky</string>
+    <string name="card_description">Popis karty</string>
+    <string name="card_topic">Téma karty</string>
+    <string name="topic_name">Název tématu</string>
+    <string name="topic_name_empty">Název tématu nemůže být prázdný</string>
+    <string name="card_topic_empty">Téma karty nemůže být prázdné</string>
+    <string name="card_description_empty">Popis karty nemůže být prázdný</string>
+    <string name="add_one_card">Přidejte alespoň jednu kartu k tématu</string>
+    <string name="menu_topbar">Témata</string>
+    <string name="action_confirm">Potvrdit</string>
+    <string name="add_info">Kliknutím na kartu ji otočíte.\n\nKliknutím na tlačítko + spřidáte kartu k tématu.\n\nKliknutím na tlačítko ✓ téma uložíte.</string>
+    <string name="action_add_card_content">Klikněte sem pro přidání obsahu karty</string>
+    <string name="card_count">Kartičky v tématu: %1$s</string>
+    <string name="action_save_topic">Uložit téma</string>
+    <string name="action_add_card">Přidat kartu</string>
+    <string name="info_no_topics">Zatím nemáte žádné téma, neváhejte ho přidat!\n\nKlikněte na tlačítko + níže a přidejte téma!</string>
+    <string name="action_more">Více</string>
+    <string name="action_edit">Upravit</string>
+    <string name="action_delete">Odstranit</string>
+    <string name="action_next_card">Další karta</string>
+    <string name="action_previous_card">Předchozí karta</string>
+    <string name="label_flip_anim">Animace karty flip</string>
+    <string name="card_count_last">%1$d/%2$d</string>
+</resources>

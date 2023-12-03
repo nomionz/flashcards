@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FlashCard</string>
+    <string name="card_topic">Card Topic</string>
+    <string name="card_description">Card Description</string>
+    <string name="topic_name">Topic Name</string>
+    <string name="topic_name_empty">Topic name can not be empty</string>
+    <string name="card_topic_empty">Card topic can not be empty</string>
+    <string name="card_description_empty">Card description can not be empty</string>
+    <string name="add_one_card">Add at least one card to topic</string>
+    <string name="menu_topbar">Topics</string>
+    <string name="action_confirm">Confirm</string>
+    <string name="add_info">Click on the card to flip it.\n\nClick on the + button to add a card to topic.\n\nClick on the ✓ button to save the topic.</string>
+    <string name="action_add_card_content">Click here to add card content</string>
+    <string name="card_count">Cards in topic: %1$s</string>
+    <string name="action_save_topic">Save Topic</string>
+    <string name="action_add_card">Add Card</string>
+    <string name="info_no_topics">No topics yet, don\'t hesitate to add one!\n\nClick on the + button below to add!</string>
+    <string name="action_more">More</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_next_card">Next Card</string>
+    <string name="action_previous_card">Previous card</string>
+    <string name="label_flip_anim">Flip card animation</string>
+    <string name="card_count_last">%1$d/%2$d</string>
+</resources>
